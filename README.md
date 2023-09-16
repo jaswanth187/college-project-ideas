@@ -3,7 +3,11 @@
 This repository contains all the ideas that students get when there in college or the ideas that they want to implement while studying in college.
 
 ## Ideas-list
+- **Masters Guide**
 
+- - **Youtube comments analyizer**
+ 
+  - 
 - **Smart Bus Tracker** - When i was in first year i used to miss my bus alot. to resolve this i wanted to have an application in which it tracks the exact location of the respective bus. and notify the student before few minutes of arrival of the bus at the stop.
 
 - **Pre-Order Canteen** - This is a popular idea. generally, this problem is faced by lots of students in their college. during lunch we all know how crowded the canteen will be there won't be much space to sit and there will be lengthy line waiting infront of the counters
